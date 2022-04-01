@@ -19,8 +19,7 @@ Answer 2
 
 ## References
 
-* [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-* [Awesome README](https://github.com/matiassingers/awesome-readme)
+* [Web Template](https://freewebsitetemplates.com/templates/page-10)
 
 ## Special Thanks
 
